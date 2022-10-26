@@ -1,5 +1,5 @@
 ## Automation_Mobile_Calculadora_App
-Validar de forma automática as funcionalidades do aplicativo calculadora, utilizando as ferramentas Robot Framework e Appium.
+Validar de forma automática as funcionalidades do aplicativo calculadora, utilizando o framework Robot Framework e a ferramenta de automação Appium.
 
 >Projeto desenvolvido afins de estudos sobre automação mobile.<br>
 <br>
@@ -17,6 +17,7 @@ Validar de forma automática as funcionalidades do aplicativo calculadora, utili
 - Appium Inspector
 - Appium 
 - Android Studio
+- JAVA JDK 8
 
 ---
 
