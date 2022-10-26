@@ -30,7 +30,7 @@ Validar de forma automática as funcionalidades do aplicativo calculadora, utili
 
 ### Gif do Teste Rodando 
 
-
+![Automation Mobile Calculadora](https://user-images.githubusercontent.com/62577764/198102689-dddddb70-9f3b-492e-b1b0-e03f30050faa.gif)
 
 ## Apoio 🌟
 
