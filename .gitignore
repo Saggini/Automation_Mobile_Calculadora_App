@@ -1,0 +1,9 @@
+venv/*
+Result/*
+__pycache__
+*.pyc
+*.log
+*.html
+*.xml
+*.svg
+.vscode/
